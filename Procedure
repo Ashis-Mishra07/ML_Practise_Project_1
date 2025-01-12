@@ -1,0 +1,40 @@
+Will take a sample model from Kaggle 
+The project is about estimating price of the house according to different parameters like number of rooms , bedrooms , parking ,etc .
+
+
+Will use concepts like :
+    Data Cleaning
+    Feature Engineering
+    One Hot Encoding
+    Outlier Detection
+    Dimensionality Reduction
+    Grid Search CV
+
+html/css/JS ----- Python Flask -----  Linear Regression Model
+  (webiste)         (backend)
+
+
+Cleaning is done .
+Then applying k_folds or grid_search_cv ML model building
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
