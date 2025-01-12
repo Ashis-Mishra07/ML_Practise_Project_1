@@ -274,11 +274,22 @@ with open('banglore_home_prices_model.pickle','wb') as f:
 # for storing the columns that are used in the model
 import json
 columns = {
-    'data_columns' : [col.lower() for col in X.columns]
+    'data_columns' : [col.lower() for col in X.columns]  # to make all the columns to be in lower order
 }
 with open("columns.json","w") as f:
     f.write(json.dumps(columns))  # .dumps( data , file)
 
+
+
+
+
+
+
+
+
+
+# Now main task is to write a python flask server to write the http request made from the UI and then predict the price of the house
+#  
 
 
 
