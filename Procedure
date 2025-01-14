@@ -1,8 +1,8 @@
-Will take a sample model from Kaggle 
+# Will take a sample model from Kaggle 
 The project is about estimating price of the house according to different parameters like number of rooms , bedrooms , parking ,etc .
 
 
-Will use concepts like :
+# Will use concepts like :
     Data Cleaning
     Feature Engineering
     One Hot Encoding
@@ -10,14 +10,25 @@ Will use concepts like :
     Dimensionality Reduction
     Grid Search CV
 
-html/css/JS ----- Python Flask -----  Linear Regression Model
-  (webiste)         (backend)
+# html/css/JS ----- Python Flask -----  Linear Regression Model
+#  (webiste)         (backend)
 
 
-Cleaning is done .
+# Cleaning is done .
 Then applying k_folds or grid_search_cv ML model building
 
 
+
+# Backend
+Now here it is used to write the python flask server for backend writing .
+Just set up in the vs code for flask install it from pip install , then use it .
+
+
+# Website Making 
+1. Wrote a function that will return the names of the location in the Bangaluru where the hotel is .
+2. Then methods added for data fecting , data simulation
+3. HTML , CSS , JS pages are made 
+4. 
 
 
 
